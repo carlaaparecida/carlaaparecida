@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💗
 
-<!--
-**carlaaparecida/carlaaparecida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carla Ferreira
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para estudo academico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo 📫
+
+- cruz.ferreira.carla@escola.pr.gov.br
+ 
+- @carlaferreira5135
